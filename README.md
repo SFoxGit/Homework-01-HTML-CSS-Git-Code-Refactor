@@ -36,3 +36,10 @@ Create concise descriptive title
 **Solution:** 
 - Reverted changes to hero section to be a background on the css instead of image on html
 ![Nav bar flows into background](navbarfix.jpg)
+
+**Challenge:**
+- Is it better to change the default text color than to have 4 instances of white as the color selection?
+
+**Solution**
+- Delete 4 lines of code to add 2 and 1 selector, I'm going to push a version with the white text commented out, then push a version with them fully deleted. I should have 3 versions at that point, one default black, one default white with manual white text commented out, and one default white without the 4 white text lines. 
+- I believe the default white will be better for any kind of future changes to the site, as I assume any future additions would have a desired white text.
