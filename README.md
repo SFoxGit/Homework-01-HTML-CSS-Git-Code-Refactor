@@ -16,7 +16,7 @@ Create concise descriptive title
 
 - Updated Title
 - Created Header Tag
-- Section for Hero image, moved image from css to html
+- Section for Hero image, moved image from css to html (reverted)
 - Converted all div tags to either section, aside, or footer
 - Changed duplicate h2 tag to h4
 - Condensed down CSS to use direct child tags
@@ -28,5 +28,9 @@ Create concise descriptive title
 ---
 
 Current challenge:
-Nav bar creates a space between header and hero when reduced below 1034px
+- Nav bar creates a space between header and hero when reduced below 1034px (resolved)
 ![Nav bar pushing down hero](navbar.jpg)
+
+Solution: 
+- Reverted changes to hero section to be a background on the css instead of image on html
+![Nav bar flows into background](navbarfix.jpg)

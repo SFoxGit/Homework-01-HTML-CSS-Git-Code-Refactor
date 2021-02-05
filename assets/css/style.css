@@ -12,8 +12,7 @@ header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
-    
+    color: #ffffff; 
 }
 
 h1 {
@@ -53,11 +52,13 @@ p {
 }
 
 /* Image below nav bar, set to cut off as screen size shrinks */
-.hero img {
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    object-fit: cover;  
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 
