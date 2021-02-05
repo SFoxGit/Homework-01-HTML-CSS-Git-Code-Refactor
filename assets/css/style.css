@@ -21,6 +21,7 @@ h1 {
     font-size: 48px;
 }
 
+/* Multi color aspect of company name */
 h1 .seo {
     color: #d9dcd6;
 }
@@ -51,24 +52,15 @@ p {
     font-size: 16px;
 }
 
+/* Image below nav bar, set to cut off as screen size shrinks */
 .hero img {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    object-fit: cover;
-    
-    
+    object-fit: cover;  
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 .content {
     width: 75%;
@@ -116,10 +108,23 @@ aside img {
     color: #ffffff;
 }
 
+/* Two sections with images on the left */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* one section with image on the right */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 .content img {
     max-height: 200px;
 }
 
+/* content headers */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -132,6 +137,7 @@ footer {
     text-align: center;
 }
 
+/* footer header */
 h4 {
     font-size: 20px;
 }
