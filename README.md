@@ -1,7 +1,27 @@
 # Horiseon Refactor
-## Refactor Homework BCS
-- Web address: [sfoxgit.github.io/horiseon_refactor/]((https://sfoxgit.github.io/horiseon_refactor/))
+## Refactor BCS
+
+**Author**
+
+Shawn Fox
+
+| [GitHub](https://github.com/SFoxGit) | [Email](sfoxss4@gmail.com) |
+
+**Project Links:**
+
+- Index displayed: [GitHub Pages](https://sfoxgit.github.io/horiseon_refactor/)
 - GitHub: [SFoxGit](https://github.com/SFoxGit/horiseon_refactor)
+
+---
+
+**GitHub Cloning Instructions:**
+
+- [Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+
+**Optional Hosting Instructions**
+
+- [Custom Domain For GitHub Pages](https://docs.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site)
+- [DNS Basics for Google Cloud services](https://support.google.com/a/answer/48090?hl=en)
 
 ---
 
